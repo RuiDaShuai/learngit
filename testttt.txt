@@ -1,2 +1,2 @@
-Creating a new branch is quick OR aaa
+Creating a new branch is quick OR aaa and bbb
 Creating a new branch is quick and simple.
